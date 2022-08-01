@@ -4,5 +4,4 @@ plotly
 sklearn
 seaborn
 matplotlib
-collections
 flask
